@@ -1,0 +1,22 @@
+[
+    { "title": "Web com Python e Django", "image": "https://developerhowto.com/wp-content/uploads/2018/12/phyton-django.jpg" },
+    { "title": "Como aprender Javascript", "image": "https://via.placeholder.com/150" },
+    { "title": "Projetos Incríveis com AJAX", "image": "https://via.placeholder.com/150" },
+    { "title": "Introdução ao HTML5", "image": "https://via.placeholder.com/150" },
+    { "title": "CSS Responsivo", "image": "https://via.placeholder.com/150" },
+    { "title": "Node.js: Uma visão geral", "image": "https://via.placeholder.com/150" },
+    { "title": "Desenvolvimento Web Moderno", "image": "https://via.placeholder.com/150" },
+    { "title": "React.js: Uma introdução", "image": "https://via.placeholder.com/150" },
+    { "title": "Bootstrap vs. Materialize", "image": "https://via.placeholder.com/150" },
+    { "title": "Python para Iniciantes", "image": "https://via.placeholder.com/150" },
+    { "title": "APIs RESTful: O que você precisa saber", "image": "https://via.placeholder.com/150" },
+    { "title": "UI/UX Design: Princípios Básicos", "image": "https://via.placeholder.com/150" },
+    { "title": "Inteligência Artificial na Indústria", "image": "https://via.placeholder.com/150" },
+    { "title": "Sass vs. Less: Uma comparação", "image": "https://via.placeholder.com/150" },
+    { "title": "WebAssembly: O futuro da web", "image": "https://via.placeholder.com/150" },
+    { "title": "Firebase: Uma visão geral", "image": "https://via.placeholder.com/150" },
+    { "title": "Machine Learning para todos", "image": "https://via.placeholder.com/150" },
+    { "title": "JAMstack: O que é e por que você deve usá-lo", "image": "https://th.bing.com/th?id=OIP.iIXOmGDzrtTJmdwbn7cGMwHaEJ&w=334&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" },
+    { "title": "Segurança na Web: Melhores práticas", "image": "https://via.placeholder.com/150" },
+    { "title": "GraphQL: Uma visão prática", "image": "https://via.placeholder.com/150" }
+]
